@@ -1,0 +1,5 @@
+local commandtospam = "size sluxqr 0.3"
+local commandtospam = "freeze others"
+while game:GetService("RunService").Heartbeat:Wait() do
+  game:GetService("Players"):Chat(commandtospam)
+end 
